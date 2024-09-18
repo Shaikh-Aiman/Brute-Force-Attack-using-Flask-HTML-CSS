@@ -1,3 +1,3 @@
 # Brute-Force-Attack-using-Flask-HTML-CSS
-![OIP (1)](https://github.com/user-attachments/assets/97206862-cbce-4e2d-8e0d-a7651baf8834)
-<img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1026227/screenshots/2417386/hacker_final.gif">
+<img alt="img" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKh07GU5jf10W_StL-eO0oYEuKCPdYRc1YH7CXLgtNSR1V8DBVINTtjhkv&s=10">
+<img align="right" alt="img" width="200" src="https://cdn.dribbble.com/users/1026227/screenshots/2417386/hacker_final.gif">
