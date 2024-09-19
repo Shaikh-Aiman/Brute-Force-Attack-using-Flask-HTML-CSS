@@ -23,6 +23,12 @@ The main objective of this project is to simulate how brute-force attacks functi
 - __Brute Force Script:__ The Python script (brute_force.py) takes the wordlist from passwords.txt and attempts to log in by sending POST requests to the Flask application (app.py).
 - __Success Message:__ If the correct password is found, the brute force script stops and displays the correct password.
 
+### Screenshots:
+- The Login Page:
+![Screenshot 2024-09-19 020030](https://github.com/user-attachments/assets/b3fe1de3-9976-4bb6-8033-32b6e512e8be)
+- The result obtained by running brute force approach:
+![Screenshot 2024-09-19 020456](https://github.com/user-attachments/assets/23a3595f-27c3-4095-8d34-209975d49c2f)
+
 ### Security Considerations:
 This project highlights how easy it can be to break into poorly secured systems. Use <ins>stronger passwords, rate limiting, CAPTCHA, and multi-factor authentication (MFA)</ins> to prevent such attacks.
 
