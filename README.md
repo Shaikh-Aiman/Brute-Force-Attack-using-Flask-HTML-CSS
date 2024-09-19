@@ -26,3 +26,6 @@ The main objective of this project is to simulate how brute-force attacks functi
 ### Security Considerations:
 This project highlights how easy it can be to break into poorly secured systems. Use <ins>stronger passwords, rate limiting, CAPTCHA, and multi-factor authentication (MFA)</ins> to prevent such attacks.
 
+### License:
+This project is licensed under the MIT License.
+
