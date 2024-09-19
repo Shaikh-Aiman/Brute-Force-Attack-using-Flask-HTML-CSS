@@ -1,4 +1,5 @@
-![OIP (2)](https://github.com/user-attachments/assets/ef55ed68-8e8c-44dd-a76b-00c9c03466fb)
+![basic-brute-force-attack-768x384](https://github.com/user-attachments/assets/03bd3a10-59ee-4fa4-81a8-6be156de505e)
+
 # Installation
 To get this project running locally, follow these steps:
 
