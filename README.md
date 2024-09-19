@@ -25,7 +25,8 @@ The main objective of this project is to simulate how brute-force attacks functi
 
 ### Screenshots:
 - The Login Page:
-![Screenshot 2024-09-19 020030](https://github.com/user-attachments/assets/b3fe1de3-9976-4bb6-8033-32b6e512e8be)
+  
+      ![Screenshot 2024-09-19 020030](https://github.com/user-attachments/assets/b3fe1de3-9976-4bb6-8033-32b6e512e8be)
 - The result obtained by running brute force approach:
 ![Screenshot 2024-09-19 020456](https://github.com/user-attachments/assets/23a3595f-27c3-4095-8d34-209975d49c2f)
 
