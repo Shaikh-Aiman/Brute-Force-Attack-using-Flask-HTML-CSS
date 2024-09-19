@@ -1,3 +1,4 @@
+![OIP (1)](https://github.com/user-attachments/assets/b6523e73-7204-4a35-b4c4-e7f3dce6ed5f)
 # Installation
 To get this project running locally, follow these steps:
 
